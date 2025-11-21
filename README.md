@@ -11,7 +11,7 @@ Ini adalah portofolio yang berfokus pada pengujian *backend* menggunakan **Postm
 | **API Client** | Postman | Digunakan untuk mengirim *request* dan memvisualisasikan respons. |
 | **Scripting** | JavaScript (di Postman) | Digunakan untuk membuat *Test Assertions* dan *pre-request scripts*. |
 | **Testing Type** | Functional Testing, Integration Testing | Memastikan setiap *endpoint* API berfungsi sesuai spesifikasi. |
-| **Tested API** | [DummyJSON API] | [Digunakan untuk simulasi data user dan produk] |
+| **Tested API** | [DummyJSON API] | Digunakan untuk simulasi data user dan produk |
 
 ---
 
